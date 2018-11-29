@@ -5,8 +5,8 @@
         "children":
         [
             { "caption": "-", "id": "1_row" },
-            { "caption": "Show Unsaved Changes…", "command": "diff_changes" },
             { "caption": "-", "id": "2_row" },
+            { "caption": "Show Unsaved Changes…", "command": "diff_changes" },
             { "caption": "-", "id": "3_row" },
             { "caption": "-", "id": "4_row" },
             { "caption": "-", "id": "5_row" },
